@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #000000;
+}
+.heading{
+    color: rgb(255, 255, 255);
+    float: left;
+    padding: 2% 35%;
+    font-size: 40px;
+}
+main {
+    color: rgb(255, 255, 255);
+    width: 50%;
+    margin: 0 20%;
+    padding: 2% 0%;
+}
+section {
+    margin-top: 0%;
+}
+.post {
+    width: 40%;
+    border-radius: 3%;
+    float: left;
+    margin-right: 2%;
+}
+#info {
+    margin-top: 4%;
+    float: left;
+    padding-right: 15%;
+}
+#info p {
+    color: #ffffff;
+    font-size: 25px;
+    padding-bottom: 7%;
+}
+#info_two {
+    margin-top: 2%;
+    
+}
+#info_two p {
+    color: #ffffff;
+    font-size: 25px;
+    padding-bottom: 1%;
+}
+.title {
+    font-size: 50px;
+}
+ul {
+    margin: 1.5% 2%;
+    float: left;
+    padding-right: 20%;
+    font-size: 20px;
+}
+est {
+    margin: -4% 2%;
+    float: right;
+    padding-right: 10%;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+    header {
+        background-color: #ffffff;
+        border-bottom:solid #ffffff 3px;
+        height: 150px;
+}
+figure {
+    clear: both;
+}
+#description p {
+    color: #ffffff;
+    font-size: 25px;
+    padding: 3% 0%;
+}
+Film {
+    color: #3a4092;
+    font-size: 25px;
+    text-align: right;
+    padding-right: -50%;
+}
+.page {
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+}
+.page:hover {
+    color: #2617ff;
+    padding-bottom: 1%;
+}
+copy {
+    padding-right: 20%;
+    text-align: left;
+}
+film {
+    color: #60668b;
+    font-size: 25px;
+    text-align: left;
+    padding-left: -50%;
+}
+copy {
+    color: #ffffff;
+    font-size: 25px;
+    text-align: left;
+    padding-left: -50%;
+}
